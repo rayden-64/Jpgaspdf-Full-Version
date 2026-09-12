@@ -239,3 +239,6 @@ This repository serves as the official landing page for JPGasPDF. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of JPGasPDF today!**
+
+---
+**Last updated:** 2026-09-12 09:07:04 UTC
